@@ -1,0 +1,15 @@
+C:\Users\Hp\OneDrive\Desktop\.Net\DelegateTest\DelegateTest\bin\Debug\net8.0\DelegateTest.exe
+C:\Users\Hp\OneDrive\Desktop\.Net\DelegateTest\DelegateTest\bin\Debug\net8.0\DelegateTest.deps.json
+C:\Users\Hp\OneDrive\Desktop\.Net\DelegateTest\DelegateTest\bin\Debug\net8.0\DelegateTest.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\.Net\DelegateTest\DelegateTest\bin\Debug\net8.0\DelegateTest.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\DelegateTest\DelegateTest\bin\Debug\net8.0\DelegateTest.pdb
+C:\Users\Hp\OneDrive\Desktop\.Net\DelegateTest\DelegateTest\obj\Debug\net8.0\DelegateTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\.Net\DelegateTest\DelegateTest\obj\Debug\net8.0\DelegateTest.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\DelegateTest\DelegateTest\obj\Debug\net8.0\DelegateTest.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\.Net\DelegateTest\DelegateTest\obj\Debug\net8.0\DelegateTest.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\DelegateTest\DelegateTest\obj\Debug\net8.0\DelegateTest.sourcelink.json
+C:\Users\Hp\OneDrive\Desktop\.Net\DelegateTest\DelegateTest\obj\Debug\net8.0\DelegateTest.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\DelegateTest\DelegateTest\obj\Debug\net8.0\refint\DelegateTest.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\DelegateTest\DelegateTest\obj\Debug\net8.0\DelegateTest.pdb
+C:\Users\Hp\OneDrive\Desktop\.Net\DelegateTest\DelegateTest\obj\Debug\net8.0\DelegateTest.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\DelegateTest\DelegateTest\obj\Debug\net8.0\ref\DelegateTest.dll
