@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\NumberSwap\NumberSwap\bin\Debug\net8.0\NumberSwap.exe
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\NumberSwap\NumberSwap\bin\Debug\net8.0\NumberSwap.deps.json
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\NumberSwap\NumberSwap\bin\Debug\net8.0\NumberSwap.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\NumberSwap\NumberSwap\bin\Debug\net8.0\NumberSwap.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\NumberSwap\NumberSwap\bin\Debug\net8.0\NumberSwap.pdb
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\NumberSwap\NumberSwap\obj\Debug\net8.0\NumberSwap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\NumberSwap\NumberSwap\obj\Debug\net8.0\NumberSwap.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\NumberSwap\NumberSwap\obj\Debug\net8.0\NumberSwap.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\NumberSwap\NumberSwap\obj\Debug\net8.0\NumberSwap.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\NumberSwap\NumberSwap\obj\Debug\net8.0\NumberSwap.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\NumberSwap\NumberSwap\obj\Debug\net8.0\refint\NumberSwap.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\NumberSwap\NumberSwap\obj\Debug\net8.0\NumberSwap.pdb
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\NumberSwap\NumberSwap\obj\Debug\net8.0\NumberSwap.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\NumberSwap\NumberSwap\obj\Debug\net8.0\ref\NumberSwap.dll

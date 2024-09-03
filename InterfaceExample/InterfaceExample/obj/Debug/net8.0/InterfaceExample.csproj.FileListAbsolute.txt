@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\.Net\InterfaceExample\InterfaceExample\bin\Debug\net8.0\InterfaceExample.exe
+C:\Users\Hp\OneDrive\Desktop\.Net\InterfaceExample\InterfaceExample\bin\Debug\net8.0\InterfaceExample.deps.json
+C:\Users\Hp\OneDrive\Desktop\.Net\InterfaceExample\InterfaceExample\bin\Debug\net8.0\InterfaceExample.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\.Net\InterfaceExample\InterfaceExample\bin\Debug\net8.0\InterfaceExample.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\InterfaceExample\InterfaceExample\bin\Debug\net8.0\InterfaceExample.pdb
+C:\Users\Hp\OneDrive\Desktop\.Net\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\.Net\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\.Net\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\InterfaceExample\InterfaceExample\obj\Debug\net8.0\refint\InterfaceExample.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.pdb
+C:\Users\Hp\OneDrive\Desktop\.Net\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\InterfaceExample\InterfaceExample\obj\Debug\net8.0\ref\InterfaceExample.dll

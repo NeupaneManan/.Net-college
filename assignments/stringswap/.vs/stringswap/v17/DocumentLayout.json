@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\.Net\\assignments\\stringswap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD9553C-37FF-4EE6-8090-E25799F2C46C}|stringswap\\stringswap.csproj|c:\\users\\hp\\onedrive\\desktop\\.net\\assignments\\stringswap\\stringswap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD9553C-37FF-4EE6-8090-E25799F2C46C}|stringswap\\stringswap.csproj|solutionrelative:stringswap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\.Net\\assignments\\stringswap\\stringswap\\Program.cs",
+              "RelativeDocumentMoniker": "stringswap\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\.Net\\assignments\\stringswap\\stringswap\\Program.cs",
+              "RelativeToolTip": "stringswap\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T14:26:11.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

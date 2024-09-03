@@ -1,0 +1,12 @@
+C:\Users\Hp\OneDrive\Desktop\.Net\DesktopAppWithCrud\DesktopAppWithCrud\bin\Debug\DesktopAppWithCrud.exe.config
+C:\Users\Hp\OneDrive\Desktop\.Net\DesktopAppWithCrud\DesktopAppWithCrud\bin\Debug\DesktopAppWithCrud.exe
+C:\Users\Hp\OneDrive\Desktop\.Net\DesktopAppWithCrud\DesktopAppWithCrud\bin\Debug\DesktopAppWithCrud.pdb
+C:\Users\Hp\OneDrive\Desktop\.Net\DesktopAppWithCrud\DesktopAppWithCrud\obj\Debug\DesktopAppWithCrud.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\DesktopAppWithCrud\DesktopAppWithCrud\obj\Debug\DesktopAppWithCrud.Form1.resources
+C:\Users\Hp\OneDrive\Desktop\.Net\DesktopAppWithCrud\DesktopAppWithCrud\obj\Debug\DesktopAppWithCrud.Properties.Resources.resources
+C:\Users\Hp\OneDrive\Desktop\.Net\DesktopAppWithCrud\DesktopAppWithCrud\obj\Debug\DesktopAppWithCrud.csproj.GenerateResource.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\DesktopAppWithCrud\DesktopAppWithCrud\obj\Debug\DesktopAppWithCrud.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\DesktopAppWithCrud\DesktopAppWithCrud\obj\Debug\DesktopAppWithCrud.exe
+C:\Users\Hp\OneDrive\Desktop\.Net\DesktopAppWithCrud\DesktopAppWithCrud\obj\Debug\DesktopAppWithCrud.pdb
+C:\Users\Hp\OneDrive\Desktop\.Net\DesktopAppWithCrud\DesktopAppWithCrud\obj\Debug\DesktopAppWithCrud.NewStudentsForm.resources
+C:\Users\Hp\OneDrive\Desktop\.Net\DesktopAppWithCrud\DesktopAppWithCrud\obj\Debug\DesktopAppWithCrud.EditForm.resources

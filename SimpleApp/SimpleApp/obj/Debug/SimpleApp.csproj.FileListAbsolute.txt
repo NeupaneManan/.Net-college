@@ -1,0 +1,10 @@
+C:\Users\Hp\OneDrive\Desktop\.Net\SimpleApp\SimpleApp\bin\Debug\SimpleApp.exe.config
+C:\Users\Hp\OneDrive\Desktop\.Net\SimpleApp\SimpleApp\bin\Debug\SimpleApp.exe
+C:\Users\Hp\OneDrive\Desktop\.Net\SimpleApp\SimpleApp\bin\Debug\SimpleApp.pdb
+C:\Users\Hp\OneDrive\Desktop\.Net\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\SimpleApp\SimpleApp\obj\Debug\SimpleApp.Properties.Resources.resources
+C:\Users\Hp\OneDrive\Desktop\.Net\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csproj.GenerateResource.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\SimpleApp\SimpleApp\obj\Debug\SimpleApp.exe
+C:\Users\Hp\OneDrive\Desktop\.Net\SimpleApp\SimpleApp\obj\Debug\SimpleApp.pdb
+C:\Users\Hp\OneDrive\Desktop\.Net\SimpleApp\SimpleApp\obj\Debug\SimpleApp.hello.resources

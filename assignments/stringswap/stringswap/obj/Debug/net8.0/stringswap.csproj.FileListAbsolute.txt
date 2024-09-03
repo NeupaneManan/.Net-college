@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\stringswap\stringswap\bin\Debug\net8.0\stringswap.exe
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\stringswap\stringswap\bin\Debug\net8.0\stringswap.deps.json
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\stringswap\stringswap\bin\Debug\net8.0\stringswap.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\stringswap\stringswap\bin\Debug\net8.0\stringswap.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\stringswap\stringswap\bin\Debug\net8.0\stringswap.pdb
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\stringswap\stringswap\obj\Debug\net8.0\stringswap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\stringswap\stringswap\obj\Debug\net8.0\stringswap.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\stringswap\stringswap\obj\Debug\net8.0\stringswap.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\stringswap\stringswap\obj\Debug\net8.0\stringswap.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\stringswap\stringswap\obj\Debug\net8.0\stringswap.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\stringswap\stringswap\obj\Debug\net8.0\refint\stringswap.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\stringswap\stringswap\obj\Debug\net8.0\stringswap.pdb
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\stringswap\stringswap\obj\Debug\net8.0\stringswap.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\assignments\stringswap\stringswap\obj\Debug\net8.0\ref\stringswap.dll

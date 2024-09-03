@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\.Net\\SimpleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0F7D19-9A9B-42D9-B91C-0ECC9BE17384}|SimpleApp\\SimpleApp.csproj|c:\\users\\hp\\onedrive\\desktop\\.net\\simpleapp\\simpleapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0F7D19-9A9B-42D9-B91C-0ECC9BE17384}|SimpleApp\\SimpleApp.csproj|solutionrelative:simpleapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0F7D19-9A9B-42D9-B91C-0ECC9BE17384}|SimpleApp\\SimpleApp.csproj|C:\\Users\\Hp\\OneDrive\\Desktop\\.Net\\SimpleApp\\simpleapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A0F7D19-9A9B-42D9-B91C-0ECC9BE17384}|SimpleApp\\SimpleApp.csproj|solutionrelative:simpleapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\.Net\\SimpleApp\\SimpleApp\\Form1.cs",
+              "RelativeDocumentMoniker": "SimpleApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\.Net\\SimpleApp\\SimpleApp\\Form1.cs",
+              "RelativeToolTip": "SimpleApp\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA1wCcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T01:14:25.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\.Net\\SimpleApp\\SimpleApp\\Form1.cs",
+              "RelativeDocumentMoniker": "SimpleApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\.Net\\SimpleApp\\SimpleApp\\Form1.cs [Design]",
+              "RelativeToolTip": "SimpleApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T01:00:25.412Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

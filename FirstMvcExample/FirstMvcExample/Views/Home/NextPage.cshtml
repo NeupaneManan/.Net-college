@@ -1,0 +1,33 @@
+﻿@using FirstMvcExample.Models
+@model List<Student>
+
+    <!doctype html>
+    <html>
+        <body>
+            <h2>List of Students</h2>
+            <table>
+                <thead>
+                    <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Address</th>
+                <th>Phone</th>
+                <th>DOB</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+            @foreach(Student std in Model)
+            {
+                <tr>
+                    <td>@std.Id</td>
+                    <td>@std.Name</td>
+                    <td>@std.Address</td>
+                    <td>@std.phone</td>
+                    <td>@std.JoinDate</td>
+                </tr>
+            }
+        </tbody>
+            </table>
+        </body>
+    </html>

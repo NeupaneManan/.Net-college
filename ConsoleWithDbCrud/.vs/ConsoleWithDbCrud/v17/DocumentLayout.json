@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\.Net\\ConsoleWithDbCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4A72A1-F094-4995-816D-47FFAA1BC2F0}|ConsoleWithDbCrud\\ConsoleWithDbCrud.csproj|c:\\users\\hp\\onedrive\\desktop\\.net\\consolewithdbcrud\\consolewithdbcrud\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4A72A1-F094-4995-816D-47FFAA1BC2F0}|ConsoleWithDbCrud\\ConsoleWithDbCrud.csproj|solutionrelative:consolewithdbcrud\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4A72A1-F094-4995-816D-47FFAA1BC2F0}|ConsoleWithDbCrud\\ConsoleWithDbCrud.csproj|c:\\users\\hp\\onedrive\\desktop\\.net\\consolewithdbcrud\\consolewithdbcrud\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4A72A1-F094-4995-816D-47FFAA1BC2F0}|ConsoleWithDbCrud\\ConsoleWithDbCrud.csproj|solutionrelative:consolewithdbcrud\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4A72A1-F094-4995-816D-47FFAA1BC2F0}|ConsoleWithDbCrud\\ConsoleWithDbCrud.csproj|c:\\users\\hp\\onedrive\\desktop\\.net\\consolewithdbcrud\\consolewithdbcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4A72A1-F094-4995-816D-47FFAA1BC2F0}|ConsoleWithDbCrud\\ConsoleWithDbCrud.csproj|solutionrelative:consolewithdbcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\.Net\\ConsoleWithDbCrud\\ConsoleWithDbCrud\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleWithDbCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\.Net\\ConsoleWithDbCrud\\ConsoleWithDbCrud\\Program.cs",
+              "RelativeToolTip": "ConsoleWithDbCrud\\Program.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAQwKgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T01:01:12.027Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\.Net\\ConsoleWithDbCrud\\ConsoleWithDbCrud\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleWithDbCrud\\Student.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\.Net\\ConsoleWithDbCrud\\ConsoleWithDbCrud\\Student.cs",
+              "RelativeToolTip": "ConsoleWithDbCrud\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T01:03:41.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\.Net\\ConsoleWithDbCrud\\ConsoleWithDbCrud\\DataAccess.cs",
+              "RelativeDocumentMoniker": "ConsoleWithDbCrud\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\.Net\\ConsoleWithDbCrud\\ConsoleWithDbCrud\\DataAccess.cs",
+              "RelativeToolTip": "ConsoleWithDbCrud\\DataAccess.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAAJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T01:02:39.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

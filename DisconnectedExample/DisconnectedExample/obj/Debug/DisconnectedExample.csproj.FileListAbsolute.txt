@@ -1,0 +1,10 @@
+C:\Users\Hp\OneDrive\Desktop\.Net\DisconnectedExample\DisconnectedExample\bin\Debug\DisconnectedExample.exe.config
+C:\Users\Hp\OneDrive\Desktop\.Net\DisconnectedExample\DisconnectedExample\bin\Debug\DisconnectedExample.exe
+C:\Users\Hp\OneDrive\Desktop\.Net\DisconnectedExample\DisconnectedExample\bin\Debug\DisconnectedExample.pdb
+C:\Users\Hp\OneDrive\Desktop\.Net\DisconnectedExample\DisconnectedExample\obj\Debug\DisconnectedExample.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\DisconnectedExample\DisconnectedExample\obj\Debug\DisconnectedExample.Form1.resources
+C:\Users\Hp\OneDrive\Desktop\.Net\DisconnectedExample\DisconnectedExample\obj\Debug\DisconnectedExample.Properties.Resources.resources
+C:\Users\Hp\OneDrive\Desktop\.Net\DisconnectedExample\DisconnectedExample\obj\Debug\DisconnectedExample.csproj.GenerateResource.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\DisconnectedExample\DisconnectedExample\obj\Debug\DisconnectedExample.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\DisconnectedExample\DisconnectedExample\obj\Debug\DisconnectedExample.exe
+C:\Users\Hp\OneDrive\Desktop\.Net\DisconnectedExample\DisconnectedExample\obj\Debug\DisconnectedExample.pdb

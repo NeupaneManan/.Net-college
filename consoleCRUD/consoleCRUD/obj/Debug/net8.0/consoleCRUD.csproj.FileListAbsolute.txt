@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\.Net\consoleCRUD\consoleCRUD\bin\Debug\net8.0\consoleCRUD.exe
+C:\Users\Hp\OneDrive\Desktop\.Net\consoleCRUD\consoleCRUD\bin\Debug\net8.0\consoleCRUD.deps.json
+C:\Users\Hp\OneDrive\Desktop\.Net\consoleCRUD\consoleCRUD\bin\Debug\net8.0\consoleCRUD.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\.Net\consoleCRUD\consoleCRUD\bin\Debug\net8.0\consoleCRUD.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\consoleCRUD\consoleCRUD\bin\Debug\net8.0\consoleCRUD.pdb
+C:\Users\Hp\OneDrive\Desktop\.Net\consoleCRUD\consoleCRUD\obj\Debug\net8.0\consoleCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\.Net\consoleCRUD\consoleCRUD\obj\Debug\net8.0\consoleCRUD.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\consoleCRUD\consoleCRUD\obj\Debug\net8.0\consoleCRUD.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\.Net\consoleCRUD\consoleCRUD\obj\Debug\net8.0\consoleCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\consoleCRUD\consoleCRUD\obj\Debug\net8.0\consoleCRUD.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\consoleCRUD\consoleCRUD\obj\Debug\net8.0\refint\consoleCRUD.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\consoleCRUD\consoleCRUD\obj\Debug\net8.0\consoleCRUD.pdb
+C:\Users\Hp\OneDrive\Desktop\.Net\consoleCRUD\consoleCRUD\obj\Debug\net8.0\consoleCRUD.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\consoleCRUD\consoleCRUD\obj\Debug\net8.0\ref\consoleCRUD.dll

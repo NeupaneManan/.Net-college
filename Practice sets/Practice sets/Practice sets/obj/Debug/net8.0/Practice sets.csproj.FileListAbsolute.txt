@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\.Net\Practice sets\Practice sets\Practice sets\bin\Debug\net8.0\Practice sets.exe
+C:\Users\Hp\OneDrive\Desktop\.Net\Practice sets\Practice sets\Practice sets\bin\Debug\net8.0\Practice sets.deps.json
+C:\Users\Hp\OneDrive\Desktop\.Net\Practice sets\Practice sets\Practice sets\bin\Debug\net8.0\Practice sets.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\.Net\Practice sets\Practice sets\Practice sets\bin\Debug\net8.0\Practice sets.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\Practice sets\Practice sets\Practice sets\bin\Debug\net8.0\Practice sets.pdb
+C:\Users\Hp\OneDrive\Desktop\.Net\Practice sets\Practice sets\Practice sets\obj\Debug\net8.0\Practice sets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\.Net\Practice sets\Practice sets\Practice sets\obj\Debug\net8.0\Practice sets.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\Practice sets\Practice sets\Practice sets\obj\Debug\net8.0\Practice sets.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\.Net\Practice sets\Practice sets\Practice sets\obj\Debug\net8.0\Practice sets.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\Practice sets\Practice sets\Practice sets\obj\Debug\net8.0\Practice sets.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\Practice sets\Practice sets\Practice sets\obj\Debug\net8.0\refint\Practice sets.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\Practice sets\Practice sets\Practice sets\obj\Debug\net8.0\Practice sets.pdb
+C:\Users\Hp\OneDrive\Desktop\.Net\Practice sets\Practice sets\Practice sets\obj\Debug\net8.0\Practice sets.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\Practice sets\Practice sets\Practice sets\obj\Debug\net8.0\ref\Practice sets.dll

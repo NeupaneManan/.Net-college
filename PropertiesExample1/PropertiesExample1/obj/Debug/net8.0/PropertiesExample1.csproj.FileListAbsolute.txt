@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\.Net\PropertiesExample1\PropertiesExample1\bin\Debug\net8.0\PropertiesExample1.exe
+C:\Users\Hp\OneDrive\Desktop\.Net\PropertiesExample1\PropertiesExample1\bin\Debug\net8.0\PropertiesExample1.deps.json
+C:\Users\Hp\OneDrive\Desktop\.Net\PropertiesExample1\PropertiesExample1\bin\Debug\net8.0\PropertiesExample1.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\.Net\PropertiesExample1\PropertiesExample1\bin\Debug\net8.0\PropertiesExample1.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\PropertiesExample1\PropertiesExample1\bin\Debug\net8.0\PropertiesExample1.pdb
+C:\Users\Hp\OneDrive\Desktop\.Net\PropertiesExample1\PropertiesExample1\obj\Debug\net8.0\PropertiesExample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\.Net\PropertiesExample1\PropertiesExample1\obj\Debug\net8.0\PropertiesExample1.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\PropertiesExample1\PropertiesExample1\obj\Debug\net8.0\PropertiesExample1.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\.Net\PropertiesExample1\PropertiesExample1\obj\Debug\net8.0\PropertiesExample1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\PropertiesExample1\PropertiesExample1\obj\Debug\net8.0\PropertiesExample1.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\PropertiesExample1\PropertiesExample1\obj\Debug\net8.0\refint\PropertiesExample1.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\PropertiesExample1\PropertiesExample1\obj\Debug\net8.0\PropertiesExample1.pdb
+C:\Users\Hp\OneDrive\Desktop\.Net\PropertiesExample1\PropertiesExample1\obj\Debug\net8.0\PropertiesExample1.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\.Net\PropertiesExample1\PropertiesExample1\obj\Debug\net8.0\ref\PropertiesExample1.dll
